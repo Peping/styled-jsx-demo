@@ -6,7 +6,7 @@
   "plugins": [
     ["styled-jsx/babel", {
 // // Uncomment line below to toggle compile error
-//      "optimizeForSpeed": true
+//        "sourceMaps": false
     }]
   ]
 }
