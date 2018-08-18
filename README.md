@@ -1,4 +1,4 @@
-# Issue zeit/styled-jsx#479 demo
+# Issue [zeit/styled-jsx#479](https://github.com/zeit/styled-jsx/issues/479) demo
 
 Babel compile step throws an exception trying to create source maps. It appears the `styled-jsx/babel` plugin isn't given exactly the data it expects.
 
